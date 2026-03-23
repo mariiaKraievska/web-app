@@ -310,7 +310,7 @@
     },
     "aboutUs": {
       "Introduction": "Mifos iniciatīva ir 501(c)(3) bezpeļņas organizācija un globāla izstrādātāju, finanšu iestāžu un sociālo uzņēmēju kopiena. Mēs ticam, ka piekļuve finanšu pakalpojumiem ir pamata cilvēktiesības, tomēr miljardiem cilvēku joprojām ir izslēgti no formālās finanšu sistēmas.",
-      "Platform Description": "Mēs pārvaramam šo plaisu, nodrošinot <a href=\"https://mifos.org\" target=\"_blank\" rel=\"noopener noreferrer\">Mifos X platformu</a>\u2014pasaulē vadošo atvērtā koda pamata banku sistēmu. Padarot uzņēmuma līmeņa banku tehnoloģiju bezmaksas un pieejamu, mēs samazinām ieejas barjeras Mikrofinanšu iestādēm (MFI), Fintech un NVO, ļaujot tām paplašināt savu ietekmi un efektīvi apkalpot \"pēdējo jūdzi\".",
+      "Platform Description": "Mēs pārvaramam šo plaisu, nodrošinot <a href=\"https://mifos.org\" target=\"_blank\" rel=\"noopener noreferrer\">Mifos X platformu</a>—pasaulē vadošo atvērtā koda pamata banku sistēmu. Padarot uzņēmuma līmeņa banku tehnoloģiju bezmaksas un pieejamu, mēs samazinām ieejas barjeras Mikrofinanšu iestādēm (MFI), Fintech un NVO, ļaujot tām paplašināt savu ietekmi un efektīvi apkalpot \"pēdējo jūdzi\".",
       "Mission": "Paātrināt finanšu iekļaušanu, katalizējot atvērtā koda tehnoloģiju, kopienas un zināšanu apmaiņas ekosistēmu.",
       "Vision": "Pasaule, kurā katram indivīdam un mazajam uzņēmumam ir pieejami finanšu instrumenti, kas nepieciešami, lai plauktu, neatkarīgi no to atrašanās vietas vai ienākumu līmeņa.",
       "Why Open Source": "Mēs izvēlējāmies atvērtā koda modeli, jo ticam, ka finanšu infrastruktūrai jābūt:",
@@ -2720,6 +2720,7 @@
       "View Journal Entry": "Skatīt žurnāla ierakstu",
       "View Report": "Skatīt pārskatu",
       "View Signature": "Skatīt parakstu",
+      "Volume": "Apjomi",
       "Waived": "Atteicās",
       "Website": "Tīmekļa vietne",
       "Wednesday": "trešdiena",
@@ -3467,6 +3468,7 @@
       "No client was found": "Klients netika atrasts",
       "No data found": "Dati nav atrasti",
       "No permissions found": "Atļaujas nav atrastas",
+      "NonTriggered": "Nav izraisīts",
       "No penalties found": "Sodi nav atrasti",
       "NoDocuments": "Nav pieejamu dokumentu.",
       "NoFileSelected": "Nav izvēlēts fails",
@@ -3602,6 +3604,7 @@
       "View system version, server and licensing information": "Skatīt sistēmas versiju, servera un licencēšanas informāciju",
       "Table": "Tabula",
       "Tax Components": "Nodokļu sastāvdaļas",
+      "Triggered": "Izraisīts",
       "tenant_app_key": "rentant_app_key",
       "Email": "E-pasts",
       "Tellers": "Teicēji",
@@ -3845,7 +3848,11 @@
         "WAIVEINTERESTPORTION": "Atteikties no procentu daļas",
         "WITHDRAW": "Izņemt",
         "WITHDRAWAL": "Izņemšana",
-        "WRITEOFF": "Betona noslēgšana"
+        "WRITEOFF": "Betona noslēgšana",
+        "ALL": "Visi",
+        "BYPASS": "Apiet",
+        "CHECKER": "Pārbaudītājs",
+        "REPORTING": "Pārskati"
       },
       "entities": {
         "ACCOUNTINGRULE": "Grāmatvedības noteikums",
@@ -3953,7 +3960,10 @@
         "TELLER": "Kasiere",
         "TEMPLATE": "Veidne",
         "USER": "Lietotājs",
-        "WORKINGDAYS": "Darba dienas"
+        "WORKINGDAYS": "Darba dienas",
+        "FUNCTIONS": "Funkcijas",
+        "TWOFACTOR": "Divfaktoru",
+        "SUPER_USER": "Superlietotājs"
       }
     },
     "auditTrail": {
@@ -4372,5 +4382,7 @@
     "YE": "Jemena",
     "ZM": "Zambija",
     "ZW": "Zimbabve"
-  }
+  },
+  "Deactivate Role": "Deaktivēt lomu",
+  "Delete Role": "Dzēst lomu"
 }

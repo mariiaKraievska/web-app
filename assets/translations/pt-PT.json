@@ -310,7 +310,7 @@
     },
     "aboutUs": {
       "Introduction": "A Iniciativa Mifos é uma organização sem fins lucrativos 501(c)(3) e uma comunidade global de desenvolvedores, instituições financeiras e empreendedores sociais. Acreditamos que o acesso a serviços financeiros é um direito humano fundamental, mas bilhões de pessoas permanecem excluídas do sistema financeiro formal.",
-      "Platform Description": "Preenchemos esta lacuna fornecendo a <a href=\"https://mifos.org\" target=\"_blank\" rel=\"noopener noreferrer\">Plataforma Mifos X</a>\u2014o principal sistema bancário central de código aberto do mundo. Ao tornar a tecnologia bancária de nível empresarial gratuita e acessível, reduzimos as barreiras de entrada para Instituições de Microfinanças (IMFs), Fintechs e ONGs, permitindo que ampliem seu impacto e atendam a \"última milha\" de forma eficiente.",
+      "Platform Description": "Preenchemos esta lacuna fornecendo a <a href=\"https://mifos.org\" target=\"_blank\" rel=\"noopener noreferrer\">Plataforma Mifos X</a>—o principal sistema bancário central de código aberto do mundo. Ao tornar a tecnologia bancária de nível empresarial gratuita e acessível, reduzimos as barreiras de entrada para Instituições de Microfinanças (IMFs), Fintechs e ONGs, permitindo que ampliem seu impacto e atendam a \"última milha\" de forma eficiente.",
       "Mission": "Acelerar a inclusão financeira catalisando um ecossistema de tecnologia de código aberto, comunidade e compartilhamento de conhecimento.",
       "Vision": "Um mundo onde cada indivíduo e pequena empresa tenha acesso às ferramentas financeiras de que precisa para prosperar, independentemente de sua localização ou nível de renda.",
       "Why Open Source": "Escolhemos o modelo de Código Aberto porque acreditamos que a infraestrutura financeira deve ser:",
@@ -2719,6 +2719,7 @@
       "View Journal Entry": "Ver lançamento contábil manual",
       "View Report": "Ver relatório",
       "View Signature": "Ver assinatura",
+      "Volume": "Volume",
       "Waived": "Dispensado",
       "Website": "Local na rede Internet",
       "Wednesday": "Quarta-feira",
@@ -3467,6 +3468,7 @@
       "No client was found": "Nenhum cliente foi encontrado",
       "No data found": "Nenhum dado encontrado",
       "No permissions found": "Nenhuma permissão encontrada",
+      "NonTriggered": "Não disparado",
       "No penalties found": "Nenhuma penalidade encontrada",
       "NoDocuments": "Nenhum documento disponível.",
       "NoFileSelected": "Nenhum arquivo selecionado",
@@ -3602,6 +3604,7 @@
       "View system version, server and licensing information": "Ver informações de versão do sistema, servidor e licenciamento",
       "Table": "Mesa",
       "Tax Components": "Componentes fiscais",
+      "Triggered": "Disparado",
       "tenant_app_key": "locatário_app_key",
       "Email": "E-mail",
       "Tellers": "Caixas",
@@ -3845,7 +3848,11 @@
         "WAIVEINTERESTPORTION": "Dispensar Parcela de Juros",
         "WITHDRAW": "Sacar",
         "WITHDRAWAL": "Saque",
-        "WRITEOFF": "Anulação de Débito"
+        "WRITEOFF": "Anulação de Débito",
+        "ALL": "Tudo",
+        "BYPASS": "Ignorar",
+        "CHECKER": "Verificador",
+        "REPORTING": "Relatórios"
       },
       "entities": {
         "ACCOUNTINGRULE": "Regra de Contabilidade",
@@ -3953,7 +3960,10 @@
         "TELLER": "Caixa",
         "TEMPLATE": "Modelo",
         "USER": "Usuário",
-        "WORKINGDAYS": "Dias úteis"
+        "WORKINGDAYS": "Dias úteis",
+        "FUNCTIONS": "Funções",
+        "TWOFACTOR": "Dois fatores",
+        "SUPER_USER": "Superusuário"
       }
     },
     "auditTrail": {
@@ -4372,5 +4382,7 @@
     "YE": "Iémen",
     "ZM": "Zâmbia",
     "ZW": "Zimbabwe"
-  }
+  },
+  "Deactivate Role": "Desativar papel",
+  "Delete Role": "Excluir papel"
 }

@@ -2716,6 +2716,7 @@
       "View Journal Entry": "Tazama Ingizo la Jarida",
       "View Report": "Tazama Ripoti",
       "View Signature": "Tazama Sahihi",
+      "Volume": "Kiasi",
       "Waived": "Imetolewa",
       "Website": "Tovuti",
       "Wednesday": "Jumatano",
@@ -3463,6 +3464,7 @@
       "No client was found": "Hakuna mteja aliyepatikana",
       "No data found": "Hakuna data iliyopatikana",
       "No permissions found": "Hakuna ruhusa iliyopatikana",
+      "NonTriggered": "Hazilizoletewa",
       "No penalties found": "Hakuna adhabu zilizopatikana",
       "NoDocuments": "Hakuna hati zinazopatikana.",
       "NoFileSelected": "Hakuna faili iliyochaguliwa",
@@ -3598,6 +3600,7 @@
       "View system version, server and licensing information": "Tazama toleo la mfumo, seva na maelezo ya leseni",
       "Table": "Meza",
       "Tax Components": "Vipengele vya Ushuru",
+      "Triggered": "Zilizoletewa",
       "tenant_app_key": "ufunguo_wa_programu_ya_mpangaji",
       "Email": "Barua pepe",
       "Tellers": "Watangazaji",
@@ -3841,7 +3844,11 @@
         "WAIVEINTERESTPORTION": "Ondoa sehemu ya riba",
         "WITHDRAW": "Ondoa",
         "WITHDRAWAL": "Kuondoleza",
-        "WRITEOFF": "Kuandika"
+        "WRITEOFF": "Kuandika",
+        "ALL": "Zote",
+        "BYPASS": "Pita",
+        "CHECKER": "Mkaguzi",
+        "REPORTING": "Ripoti"
       },
       "entities": {
         "ACCOUNTINGRULE": "Kanuni ya Uhasibu",
@@ -3949,7 +3956,10 @@
         "TELLER": "Mtoa Huduma",
         "TEMPLATE": "Muundo",
         "USER": "Mtumiaji",
-        "WORKINGDAYS": "Siku za Kazi"
+        "WORKINGDAYS": "Siku za Kazi",
+        "FUNCTIONS": "Kazi",
+        "TWOFACTOR": "Kipengele Mbili",
+        "SUPER_USER": "Mtumiaji Mkuu"
       }
     },
     "auditTrail": {
@@ -4368,5 +4378,7 @@
     "YE": "Yemen",
     "ZM": "Zambia",
     "ZW": "Zimbabwe"
-  }
+  },
+  "Deactivate Role": "Zima Jukumu",
+  "Delete Role": "Futa Jukumu"
 }

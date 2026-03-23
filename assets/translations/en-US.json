@@ -2742,6 +2742,7 @@
       "View Journal Entry": "View Journal Entry",
       "View Report": "View Report",
       "View Signature": "View Signature",
+      "Volume": "Volume",
       "Waived": "Waived",
       "Website": "Website",
       "Wednesday": "Wednesday",
@@ -3588,6 +3589,7 @@
       "No client was found": "No client was found",
       "No data found": "No data found",
       "No permissions found": "No permissions found",
+      "NonTriggered": "NonTriggered",
       "NoDocuments": "No documents available.",
       "NoFileSelected": "No file selected",
       "NoNotesAvailable": "No notes available",
@@ -3737,6 +3739,7 @@
       "View system version, server and licensing information": "View system version, server and licensing information",
       "Table": "Table",
       "Tax Components": "Tax Components",
+      "Triggered": "Triggered",
       "tenant_app_key": "tenant_app_key",
       "Email": "Email",
       "Tellers": "Tellers",
@@ -3979,7 +3982,11 @@
         "WAIVEINTERESTPORTION": "Waive Interest Portion",
         "WITHDRAW": "Withdraw",
         "WITHDRAWAL": "Withdrawal",
-        "WRITEOFF": "Write-Off"
+        "WRITEOFF": "Write-Off",
+        "ALL": "All",
+        "BYPASS": "Bypass",
+        "CHECKER": "Checker",
+        "REPORTING": "Reporting"
       },
       "entities": {
         "ACCOUNTINGRULE": "Accounting Rule",
@@ -4087,6 +4094,9 @@
         "TELLER": "Teller",
         "TEMPLATE": "Template",
         "USER": "User",
+        "FUNCTIONS": "Functions",
+        "TWOFACTOR": "Two-Factor",
+        "SUPER_USER": "Super User",
         "WORKINGDAYS": "Working Days"
       }
     },
